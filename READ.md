@@ -15,4 +15,5 @@
  * The Race
 
 Smile | silence
+----- | -------
 best | solution
