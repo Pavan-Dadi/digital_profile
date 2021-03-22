@@ -7,3 +7,9 @@
 * Cool
 * chill
   * Bro
+
+1. Slow
+2. And
+3. Study
+ * Wins
+ * The Race
