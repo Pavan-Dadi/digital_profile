@@ -21,3 +21,7 @@ best | solution
 GitHub supports emoji!
 :+1: :sparkles: :camel: :tada:
 :rocket: :metal: :octocat:
+
+github supports emoji
+:battery: :dog: :dog2: :sevice_dog:
+:house: :car: :biking_man:
