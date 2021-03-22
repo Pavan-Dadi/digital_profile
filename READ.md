@@ -23,5 +23,5 @@ GitHub supports emoji!
 :rocket: :metal: :octocat:
 
 github supports emoji
-:battery: :dog: :dog2: :sevice_dog:
+:battery: :dog: :dog2: :service_dog:
 :house: :car: :biking_man:
